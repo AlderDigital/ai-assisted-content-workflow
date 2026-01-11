@@ -33,7 +33,7 @@ For full explanations and real-world context, see:
   https://alderdigital.com/how-ai-video-localisation-works
 
 - **What Is Localisation in Video Editing**  
-  https://alderdigital.com/what-is-localisation-in-video-editing
+  https://alderdigital.com/what-is-ai-video-localisation-in-video-editing
   
 - **What Is AI Video Dubbing and Lip Sync**  
   https://alderdigital.com/what-is-ai-video-dubbing-and-lip-sync
