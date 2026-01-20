@@ -31,6 +31,8 @@ For full explanations and real-world context, see:
 
 - **How AI Video Localisation Works**  
   https://alderdigital.com/how-ai-video-localisation-works
+  **US spelling: video localization**  
+  https://alderdigital.com/how-ai-video-localisation-works
 
 - **What Is Localisation in Video Editing**  
   https://alderdigital.com/what-is-ai-video-localisation-in-video-editing
